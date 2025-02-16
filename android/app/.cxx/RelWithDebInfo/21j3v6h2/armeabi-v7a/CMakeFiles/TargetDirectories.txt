@@ -1,0 +1,2 @@
+D:/all code/Flutter all projects/Mod_maneger_v3/android/app/.cxx/RelWithDebInfo/21j3v6h2/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/all code/Flutter all projects/Mod_maneger_v3/android/app/.cxx/RelWithDebInfo/21j3v6h2/armeabi-v7a/CMakeFiles/rebuild_cache.dir
