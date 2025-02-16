@@ -1829,7 +1829,7 @@ class _AdminHomeState extends State<AdminHome> {
                           Row(
                             children: [
                               Text(
-                                "Customer name",
+                                "Customer name : ",
                                 style: TextStyle(
                                     color: Colors.blue,
                                     fontSize: 20.0,
@@ -1883,7 +1883,7 @@ class _AdminHomeState extends State<AdminHome> {
                           Row(
                             children: [
                               Text(
-                                "Product Price",
+                                "Product Price : ",
                                 style: TextStyle(
                                     color: Colors.blue,
                                     fontSize: 20.0,
@@ -1901,7 +1901,7 @@ class _AdminHomeState extends State<AdminHome> {
                           Row(
                             children: [
                               Text(
-                                "Quantity of product",
+                                "Quantity of product : ",
                                 style: TextStyle(
                                     color: Colors.blue,
                                     fontSize: 20.0,
