@@ -1227,7 +1227,7 @@ class _AdminHomeState extends State<AdminHome> {
                                 }
 
                                 // Save to getback collection if there are changes
-                                if (getbackData.isNotEmpty) {
+                                if (getbackData.containsKey('quantity_diff')) {
                                   getbackData['productId'] = data['productId'];
                                   getbackData['customer_name'] = data['customer_name'];
                                   getbackData['moderatorName'] = data['moderatorName'];
